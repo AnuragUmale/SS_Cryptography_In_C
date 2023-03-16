@@ -4,18 +4,16 @@
 ## Files In The Repository
 
 1. Makefile
-2. DESIGN.pdf
-3. WRITEUP.pdf
-4. README.md
-5. ss.h
-6. ss.c
-7. randstate.h
-8. randstate.c
-9. numtheory.h
-10. numtheory.c
-11. keygen.c
-12. encrypt.c
-13. decrypt.c
+2. README.md
+3. ss.h
+4. ss.c
+5. randstate.h
+6. randstate.c
+7. numtheory.h
+8. numtheory.c
+9. keygen.c
+10. encrypt.c
+11. decrypt.c
 
 # Make commands
 
